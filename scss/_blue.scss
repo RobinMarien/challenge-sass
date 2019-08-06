@@ -1,0 +1,8 @@
+$textcolor:#2748B3;
+$hcolor:darkblue;
+$padding: 8px;
+@mixin boxshadow{
+  -webkit-box-shadow: 10px 10px 19px -4px rgba(100, 100, 255, 0.75);
+  -moz-box-shadow: 10px 10px 19px -4px rgba(100, 100, 255, 0.75);
+  box-shadow: 10px 10px 19px -4px rgba(100, 100, 255, 0.75);
+}
